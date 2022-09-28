@@ -1,0 +1,50 @@
+.containerCoin {
+    width: 50%;
+    min-width: 650px;
+    padding: 50px 0px;
+    margin: 200px auto;
+    text-align: start;
+    background-color: #F5F6F8;
+    color: black;
+    border-radius: 10px;
+}
+
+.containerDetail{
+    display: flex;
+    justify-content: space-around;
+}
+
+.change{
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 5px 30px;
+    background-color: rgb(247, 228, 242);
+}
+
+.rank{
+    width: 80px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+h2 {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 0px;
+
+    div {
+        font-size: 16px;
+        margin-left: 10px;
+        padding: 5px;
+        border-radius: 5px;
+        color: white;
+        background-color: blue;
+    }
+}
+    
+ 
